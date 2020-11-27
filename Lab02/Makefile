@@ -18,4 +18,4 @@ run:
 check: 
 	valgrind ./$(EXEC)
 
-.PHONY: all clean run check
+.PHONY: all clean run checkmake clea
